@@ -3,7 +3,7 @@
 - 👨‍💼📞Client Support Specialist with 5 years of experience
 - 👨‍💻Currently trying to become a Software Developer
 
-- 🌱 Learning: React
+- 🌱 Learning: React, Next.js
 
 ### Technologies
 <div style="display:inline-block">
