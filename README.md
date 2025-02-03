@@ -1,9 +1,6 @@
 ## About me
 - 👨‍🎓Computer Science Graduate at UniCarioca
 - 👨‍💼📞Client Support Specialist with 5 years of experience
-- 👨‍💻Currently trying to become a Software Developer
-
-- 🌱 Learning: React, Next.js
 
 ### Technologies
 <div style="display:inline-block">
