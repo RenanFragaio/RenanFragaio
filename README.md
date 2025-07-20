@@ -1,6 +1,6 @@
 ## About me
 - 👨‍🎓Computer Science Graduate at UniCarioca
-- 👨‍💼📞Client Support Specialist with 5 years of experience
+- 👨‍💼📞Client Support Specialist with 6 years of experience
 
 ### Technologies
 <div style="display:inline-block">
